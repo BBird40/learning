@@ -2,3 +2,7 @@
 *.suo
 *.user
 *.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
