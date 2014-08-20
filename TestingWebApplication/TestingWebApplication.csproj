@@ -62,6 +62,7 @@
     <Content Include="bootstrap\img\glyphicons-halflings.png" />
     <Content Include="bootstrap\js\bootstrap.js" />
     <Content Include="bootstrap\js\bootstrap.min.js" />
+    <Content Include="bootstraplayout.html" />
     <Content Include="SimpleLayout.html" />
     <Content Include="css\site.css" />
     <Content Include="introduction.html" />
