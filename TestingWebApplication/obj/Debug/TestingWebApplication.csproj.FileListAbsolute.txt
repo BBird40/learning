@@ -1,4 +1,0 @@
-C:\_dev\practice\TestingWebApplication\TestingWebApplication\bin\TestingWebApplication.dll
-C:\_dev\practice\TestingWebApplication\TestingWebApplication\bin\TestingWebApplication.pdb
-C:\_dev\practice\TestingWebApplication\TestingWebApplication\obj\Debug\TestingWebApplication.dll
-C:\_dev\practice\TestingWebApplication\TestingWebApplication\obj\Debug\TestingWebApplication.pdb
