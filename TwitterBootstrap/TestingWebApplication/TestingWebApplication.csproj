@@ -63,6 +63,8 @@
     <Content Include="bootstrap\js\bootstrap.js" />
     <Content Include="bootstrap\js\bootstrap.min.js" />
     <Content Include="bootstraplayout.html" />
+    <Content Include="tables.html" />
+    <Content Include="typography.html" />
     <Content Include="SimpleLayout.html" />
     <Content Include="css\site.css" />
     <Content Include="introduction.html" />
