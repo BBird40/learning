@@ -3,13 +3,42 @@
     <head>
         <meta charset="utf-8"/>
         <title>Hello!</title>
-        <link href="bootstrap/css/bootstrap.css" rel="stylesheet"/>       
+        <link href="bootstrap/css/bootstrap.css" rel="stylesheet"/>
+        <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet" />
     </head>
 <body>
     <!-- use class="container"
             to center the grid & using fixed width
             It will not resize the grid with the browser window.
      -->
+    <div class="container">
+        <div class="row">
+            <div class="span4">
+                <div class="visible-phone">Visible Phone</div>
+            </div>
+            <div class="span4">
+                <div class="visible-tablet">Visible Tablet</div>
+            </div>
+            <div class="span4">
+                <div class="visible-desktop">Visible Desktop</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="span4">
+                <div class="hidden-phone">Hidden Phone</div>
+            </div>
+            <div class="span4">
+                <div class="hidden-tablet">Hidden Tablet</div>
+            </div>
+            <div class="span4">
+                <div class="hidden-desktop">Hidden Desktop</div>
+            </div>
+        </div>
+    </div>
+    
     <div class="container-fluid">
         <div class="row">
             <div class="span1">1</div>
