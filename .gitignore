@@ -41,4 +41,4 @@ jspm_packages
 
 # Node Project specifics
 
-public/lib/
+node/**/**/public/lib
