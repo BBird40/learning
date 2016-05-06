@@ -9,14 +9,14 @@ var port = 5000;
 app.use(express.static('public'));
 app.use(express.static('src/views'));
 
-app.get('/', function(req, res){
+app.get('/', function (req, res) {
     res.send('Hello World');
 });
 
-app.get('/auburn', function(req, res){
+app.get('/auburn', function (req, res) {
     res.send('Hello Auburn');
 });
 
-app.listen(port, function(err){
+app.listen(port, function (err) {
     console.log("running server on port " + port + ".");
 });
